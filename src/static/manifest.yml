@@ -1,5 +1,5 @@
 applications:
-- name: angular-bmx-sample
-  host: angular-bmx-sample
+- name: angular-firebase-bmx-sample
+  host: angular-firebase-bmx-sample
   memory: 64M
   buildpack: staticfile_buildpack
